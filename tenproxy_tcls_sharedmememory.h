@@ -35,7 +35,7 @@ private:
 public:
     TenProxyTclsSharedMeMemory() {
         //connection = "127.0.0.1:8140;127.0.0.1:8141;127.0.0.1:8142;vport:8143";
-        connection = "127.0.0.1:8141";
+        connection = "127.0.0.1:8142";
         ip = "127.0.0.1";
         // tcls_client_exe = "C:\\Games\\Monster Hunter Online\\TCLS\\client.exe";
         tcls_client_exe = "";

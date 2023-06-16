@@ -172,13 +172,7 @@ int main(int argc, char *argv[]) {
     }
     work_dir = mho_dir;
 
-    if (true) {
-        mho_dir = L"C:\\Users\\nxspirit\\Downloads\\MHO_FullDirectory_Final\\TencentGame\\Monster Hunter Online\\Bin\\Client\\Bin32\\";
-        mho_exe = L"MHOClient.exe";
-        mho_arg = L"-q 123456789 -src=tgp -game_id 45 -area 1 -zone_id 17306122 -nosplash";
-        // mho_arg = L"-q -loginqq=1234567890123456789 -nosplash";
-        work_dir = L"C:\\Users\\nxspirit\\Downloads\\MHO_FullDirectory_Final\\TencentGame\\Monster Hunter Online\\";
-    }
+
 
 
     if (false) {
